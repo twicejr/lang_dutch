@@ -7,7 +7,7 @@
 			'email' => 'twicejr@gmail.com',
 			'website' => 'http://kanbeter.info/'
 		),
-		'release-date' => '2013-10-20'
+		'release-date' => '2013-10-10'
 	);
 
 	/**
