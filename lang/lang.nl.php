@@ -102,7 +102,7 @@
 		false,
 
 		'Create New' =>
-		'Nieuwe aanmaken',
+		'Aanmaken',
 
 		'Create a new data source' =>
 		'Nieuwe databron aanmaken',
