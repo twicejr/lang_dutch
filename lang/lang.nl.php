@@ -903,7 +903,7 @@
 		'Onbekend',
 
 		'System Default' =>
-		'Systeem standaard',
+		'Systeemstandaard',
 
 		'Are you sure you want to delete the selected authors?' =>
 		'Weet je zeker dat je de geselecteerde gebruikers wil verwijderen?',
@@ -939,7 +939,7 @@
 		false,
 
 		'Leave password fields blank to keep the current password' =>
-		'Wachtwoordvelden leeg laten om het huidige wachtwoord te blijven gebruiken',
+		'Laat wachtwoordvelden leeg om het huidige wachtwoord te behouden',
 
 		'Old Password' =>
 		'Oud wachtwoord',
