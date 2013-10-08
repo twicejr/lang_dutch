@@ -9,3 +9,4 @@ Information about [installing and updating extensions](http://symphony-cms.com/l
 ## Notes
 
 I am not a professional translator, but did my best.
+Please let me know if you find any problems or want access.
