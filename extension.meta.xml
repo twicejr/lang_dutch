@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="lang_dutch" status="beta" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Language: Dutch</name>
+	<description>Dutch translation for Symphony</description>
+	<repo type="github"></repo>
+	<types>
+		<type>Translations</type>
+	</types>
+	<authors>
+		<author>
+			<name github="twicejr" symphony="twicejr">naam</name>
+			<website>http://kanbeter.info/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-10-08" min="2.3">
+			* Initial release.
+		</release>
+	</releases>
+</extension>
