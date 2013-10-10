@@ -243,7 +243,7 @@
 		'%1$s Pagineer resultaten, gebruik %2$s items per pagina. Geef pagina %3$s terug.',
 
 		'Failing to paginate may degrade performance if the number of entries returned is very high.' =>
-		'Het mislukkken van paginatie kan de snelheid verlagen indien het aantal items wat teruggegeven wordt erg hoog is.',
+		'Zonder paginatie kan de website traag reageren als er veel resultaten teruggegeven worden.',
 
 		'Output Options' =>
 		'Uitvoeropties',
